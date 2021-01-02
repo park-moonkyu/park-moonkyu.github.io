@@ -16,23 +16,23 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "문규의 성장일지"
+title                    : "GitHub Pages 따라하기- devinlife.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "꾸준하게 기록 및 공유를 합니다."
-description              : ""
-url                      : "https://github.com/park-moonkyu"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "취미코딩하는 개발자"
+description              : "회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자의 블로그"
+url                      : "https://devinlife.github.io"
+baseurl                  : # 서브 경로가 있는 경우 기재
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/moon.jpg"
+teaser                   : "/assets/images/bio-photo-keyboard.jpg"
+logo                     : # 최상단 메뉴 바에 사이트 로고 넣기
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # 블로그 댓글 기능 false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "park-moonkyu-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "devinlife-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/moon.jpg"
+og_image                 : "/assets/images/bio-photo-keyboard.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -85,38 +85,37 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # 구글 어날리틱스 등록 false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-134677596-2"
     anonymize_ip         : # true, false (default)
-
 
 # Site Author
 author:
-  name             : "문규의 성장일지"
-  avatar           : "/assets/images/moon.jpg"
-  bio              : "꾸준하게 기록 및 공유를 합니다."
+  name             : "취미코딩하는 개발자"
+  avatar           : "/assets/images/bio-photo-keyboard.jpg"
+  bio              : "회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자"
   location         : "South Korea"
-  email            : "
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:moonkyu95@gmail.com"
-    - label: "Tech Blog"
+      url: mailto:devinlifeidea@gmail.com
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://blog.naver.com/mk_crew"
+      url: "https://devinlife.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "linkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/moonkyu-park/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/park-moonkyu"
+      url: "https://github.com/devinlife"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mooongs_"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -129,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/devinlife"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -207,9 +206,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5 # 첫 페이지에보여줄 최근 게시물 수를 지정
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -276,6 +275,20 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      toc_ads: true
+      toc_sticky: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
