@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-11T16:59:28+09:00</updated><id>/feed.xml</id><title type="html">Site Title</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://park-moonkyu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://park-moonkyu.github.io//" rel="alternate" type="text/html" /><updated>2021-01-11T18:12:46+09:00</updated><id>https://park-moonkyu.github.io//feed.xml</id><title type="html">꾸준하게 정리하기</title><subtitle>주니어 개발자 박문규의 블로그입니다.</subtitle><author><name>Moonkyu Park</name></author><entry><title type="html">github.io 블로그 시작하기</title><link href="https://park-moonkyu.github.io//blog/first-post/" rel="alternate" type="text/html" title="github.io 블로그 시작하기" /><published>2021-01-11T00:00:00+09:00</published><updated>2021-01-11T22:17:00+09:00</updated><id>https://park-moonkyu.github.io//blog/first-post</id><content type="html" xml:base="https://park-moonkyu.github.io//blog/first-post/">&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
+GitHub Blog 서비스의 이름은 Pages이다.&lt;/p&gt;
+
+&lt;p&gt;Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
+다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.&lt;/p&gt;
+
+&lt;p&gt;YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
+이 글의 제목은 github.io 블로그 시작하기이고
+마지막으로 수정된 시간은 2021-01-11 08:17:00 -0500이다.&lt;/p&gt;</content><author><name>Moonkyu Park</name></author><category term="Blog" /><category term="Blog" /><summary type="html">GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.</summary></entry></feed>

@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://park-moonkyu.github.io//sitemap.xml
