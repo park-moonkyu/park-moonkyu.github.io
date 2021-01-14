@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://park-moonkyu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://park-moonkyu.github.io//" rel="alternate" type="text/html" /><updated>2021-01-13T02:49:44+09:00</updated><id>https://park-moonkyu.github.io//feed.xml</id><title type="html">꾸준하게 정리하기</title><subtitle>주니어 개발자 박문규의 블로그입니다.</subtitle><author><name>Moonkyu Park</name></author><entry><title type="html">github.io 블로그 시작하기</title><link href="https://park-moonkyu.github.io//blog/first-post/" rel="alternate" type="text/html" title="github.io 블로그 시작하기" /><published>2021-01-11T00:00:00+09:00</published><updated>2021-01-11T22:17:00+09:00</updated><id>https://park-moonkyu.github.io//blog/first-post</id><content type="html" xml:base="https://park-moonkyu.github.io//blog/first-post/">&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://park-moonkyu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://park-moonkyu.github.io//" rel="alternate" type="text/html" /><updated>2021-01-14T21:29:21+09:00</updated><id>https://park-moonkyu.github.io//feed.xml</id><title type="html">꾸준하게 정리하기</title><subtitle>주니어 개발자 박문규의 블로그입니다.</subtitle><author><name>Moonkyu Park</name></author><entry><title type="html">서시 - 윤동주</title><link href="https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/si-susi/" rel="alternate" type="text/html" title="서시 - 윤동주" /><published>2021-01-14T00:00:00+09:00</published><updated>2021-01-14T22:06:00+09:00</updated><id>https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/si-susi</id><content type="html" xml:base="https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/si-susi/">&lt;p&gt;서시&lt;/p&gt;
+
+&lt;p&gt;죽는 날까지 하늘을 우러러&lt;br /&gt;
+한점 부끄럼이 없기를,&lt;br /&gt;
+잎새에 이는 바람에도&lt;br /&gt;
+나는 괴로워했다.&lt;br /&gt;
+별을 노래하는 마음으로&lt;br /&gt;
+모든 죽어가는 것을 사랑해야지&lt;br /&gt;
+그리고 나한테 주어진 길을&lt;br /&gt;
+걸어가야겠다.&lt;/p&gt;
+
+&lt;p&gt;오늘밤에도 별이 바람에 스치운다.&lt;/p&gt;</content><author><name>Moonkyu Park</name></author><category term="윤동주" /><category term="서시" /><category term="윤동주" /><category term="시" /><summary type="html">윤동주 시인의 작품 모음 - 서시</summary></entry><entry><title type="html">github.io 블로그 시작하기</title><link href="https://park-moonkyu.github.io//blog/first-post/" rel="alternate" type="text/html" title="github.io 블로그 시작하기" /><published>2021-01-11T00:00:00+09:00</published><updated>2021-01-11T22:17:00+09:00</updated><id>https://park-moonkyu.github.io//blog/first-post</id><content type="html" xml:base="https://park-moonkyu.github.io//blog/first-post/">&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 GitHub Blog 서비스의 이름은 Pages이다.&lt;/p&gt;
 
 &lt;p&gt;Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.

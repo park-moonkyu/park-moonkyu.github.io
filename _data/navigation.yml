@@ -2,6 +2,8 @@
 main:
   - title: "ABOUT ME"
     url: /about/
+  - title: "윤동주"
+    url: /categories/윤동주/
   # - title: "PROF"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
