@@ -1,9 +1,16 @@
 # main links
 main:
+  - title: "CLOUD"
+    url: /categories/cloud/
+  - title: "AI & Data Analysis"
+    url: /categories/ai/
+  - title: "코딩"
+    url: /categories/coding/
+  - title: "기록"
+    url: /categories/writing/
   - title: "ABOUT ME"
     url: /about/
-  - title: "윤동주"
-    url: /categories/윤동주/
+
   # - title: "PROF"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
