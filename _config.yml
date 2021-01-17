@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "꾸준하게 정리하기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Moonkyu Park"
+name                     : "Moonkyu Park(박문규)"
 description              : "주니어 개발자 박문규의 블로그입니다."
 url                      : "https://park-moonkyu.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,22 +101,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: mailto:moonkyu95@gmail.com
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.linkedin.com/in/moonkyu-park/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/park-moonkyu"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtude"
+      #url: "https://www.youtube.com/channel/UC5HfEyjM8r-GESaFfW7-DEA"
 
 # Site Footer
 footer:
