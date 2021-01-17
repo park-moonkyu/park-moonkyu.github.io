@@ -10,4 +10,10 @@ var store = [{
         "tags": ["서시","윤동주","cloud"],
         "url": "https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/ai/si-susi/",
         "teaser": "https://park-moonkyu.github.io//assets/images/mk.png"
+      },{
+        "title": "테스트",
+        "excerpt":"1. 서시   죽는 날까지 하늘을 우러러  한점 부끄럼이 없기를,  잎새에 이는 바람에도  나는 괴로워했다.  별을 노래하는 마음으로  모든 죽어가는 것을 사랑해야지  그리고 나한테 주어진 길을  걸어가야겠다.   오늘밤에도 별이 바람에 스치운다.   2. 테스트   3. 테스트2  ","categories": ["윤동주","cloud","독서"],
+        "tags": ["writing","윤동주","cloud"],
+        "url": "https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/%EB%8F%85%EC%84%9C/si-first/",
+        "teaser": "https://park-moonkyu.github.io//assets/images/mk.png"
       }]
