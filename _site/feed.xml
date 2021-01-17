@@ -1,34 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://park-moonkyu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://park-moonkyu.github.io//" rel="alternate" type="text/html" /><updated>2021-01-17T22:51:21+09:00</updated><id>https://park-moonkyu.github.io//feed.xml</id><title type="html">꾸준하게 정리하기</title><subtitle>주니어 개발자 박문규의 블로그입니다.</subtitle><author><name>Moonkyu Park</name></author><entry><title type="html">테스트</title><link href="https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/%EB%8F%85%EC%84%9C/si-first/" rel="alternate" type="text/html" title="테스트" /><published>2021-01-17T00:00:00+09:00</published><updated>2021-01-17T22:06:00+09:00</updated><id>https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/%EB%8F%85%EC%84%9C/si-first</id><content type="html" xml:base="https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/%EB%8F%85%EC%84%9C/si-first/">&lt;h2 id=&quot;1-서시&quot;&gt;1. 서시&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://park-moonkyu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://park-moonkyu.github.io//" rel="alternate" type="text/html" /><updated>2021-01-18T08:03:18+09:00</updated><id>https://park-moonkyu.github.io//feed.xml</id><title type="html">꾸준하게 정리하기</title><subtitle>주니어 개발자 박문규의 블로그입니다.</subtitle><author><name>Moonkyu Park</name></author><entry><title type="html">캐글 가이드</title><link href="https://park-moonkyu.github.io//%EB%8F%85%EC%84%9C/%EC%BA%90%EA%B8%80%EA%B0%80%EC%9D%B4%EB%93%9C/" rel="alternate" type="text/html" title="캐글 가이드" /><published>2021-01-18T00:00:00+09:00</published><updated>2019-04-17T22:06:00+09:00</updated><id>https://park-moonkyu.github.io//%EB%8F%85%EC%84%9C/%EC%BA%90%EA%B8%80%EA%B0%80%EC%9D%B4%EB%93%9C</id><content type="html" xml:base="https://park-moonkyu.github.io//%EB%8F%85%EC%84%9C/%EC%BA%90%EA%B8%80%EA%B0%80%EC%9D%B4%EB%93%9C/">&lt;p&gt;&lt;img src=&quot;https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20200701_2%2F1593587692923oRvKv_JPEG%2F1052217653831685_1523104267.jpg&amp;amp;type=a340&quot; alt=&quot;title&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;죽는 날까지 하늘을 우러러&lt;br /&gt;
-한점 부끄럼이 없기를,&lt;br /&gt;
-잎새에 이는 바람에도&lt;br /&gt;
-나는 괴로워했다.&lt;br /&gt;
-별을 노래하는 마음으로&lt;br /&gt;
-모든 죽어가는 것을 사랑해야지&lt;br /&gt;
-그리고 나한테 주어진 길을&lt;br /&gt;
-걸어가야겠다.&lt;/p&gt;
+&lt;h2 id=&quot;캐글가이드---사카모토-유시도키&quot;&gt;캐글가이드 - 사카모토 유시도키&lt;/h2&gt;
 
-&lt;p&gt;오늘밤에도 별이 바람에 스치운다.&lt;/p&gt;
+&lt;h4 id=&quot;기간--20210112---20210117&quot;&gt;기간 : 2021.01.12 - 2021.01.17&lt;/h4&gt;
 
-&lt;h2 id=&quot;2-테스트&quot;&gt;2. 테스트&lt;/h2&gt;
+&lt;p&gt;지금까지 캐글코리아에서 활동을 하며 제대로된 캐글 활동을 해오진 않았다.
+도서지원을 받을 기회가 생겨 무슨책을 고를까 고민하다가 고른책들 중 한권이다.
+올해는 캐글에서 다양한 활동을 하고싶어 워밍업 차원으로 읽은 느낌도 있다.&lt;/p&gt;
 
-&lt;h2 id=&quot;3-테스트2&quot;&gt;3. 테스트2&lt;/h2&gt;</content><author><name>Moonkyu Park</name></author><category term="윤동주" /><category term="cloud" /><category term="독서" /><category term="writing" /><category term="윤동주" /><category term="cloud" /><summary type="html">윤동주 시인의 작품 모음 - 서시</summary></entry><entry><title type="html">서시 - 윤동주</title><link href="https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/ai/si-susi/" rel="alternate" type="text/html" title="서시 - 윤동주" /><published>2021-01-14T00:00:00+09:00</published><updated>2021-01-14T22:06:00+09:00</updated><id>https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/ai/si-susi</id><content type="html" xml:base="https://park-moonkyu.github.io//%EC%9C%A4%EB%8F%99%EC%A3%BC/cloud/ai/si-susi/">&lt;h2 id=&quot;1-서시&quot;&gt;1. 서시&lt;/h2&gt;
+&lt;p&gt;책은 캐글을 완전 처음 접해보는 사람을 대상으로 하고 있다.
+또한 캐글은 어떠한 사이트인지, 어떠한 목적으로 사용을하는지 등 다양한 목적이 나와있다.&lt;/p&gt;
 
-&lt;p&gt;죽는 날까지 하늘을 우러러&lt;br /&gt;
-한점 부끄럼이 없기를,&lt;br /&gt;
-잎새에 이는 바람에도&lt;br /&gt;
-나는 괴로워했다.&lt;br /&gt;
-별을 노래하는 마음으로&lt;br /&gt;
-모든 죽어가는 것을 사랑해야지&lt;br /&gt;
-그리고 나한테 주어진 길을&lt;br /&gt;
-걸어가야겠다.&lt;/p&gt;
+&lt;p&gt;흐름은 캐글을 어떻게 사용하는지(캐글 노트북, discussion, submit 등) 소개하고 다양한 캐글대회들을 소개한다.
+또한 캐글을 통해서 해당분야의 발전을 알수있다고 한다.&lt;/p&gt;
 
-&lt;p&gt;오늘밤에도 별이 바람에 스치운다.&lt;/p&gt;
+&lt;p&gt;예를 들면 자연어 처리가. 단순한 LSTM에서 Bert까지 등장하는 노트북을 소개한다.&lt;/p&gt;
 
-&lt;h2 id=&quot;2-테스트&quot;&gt;2. 테스트&lt;/h2&gt;
-
-&lt;h2 id=&quot;3-테스트2&quot;&gt;3. 테스트2&lt;/h2&gt;</content><author><name>Moonkyu Park</name></author><category term="윤동주" /><category term="cloud" /><category term="ai" /><category term="서시" /><category term="윤동주" /><category term="cloud" /><summary type="html">윤동주 시인의 작품 모음 - 서시</summary></entry><entry><title type="html">github.io 블로그 시작하기</title><link href="https://park-moonkyu.github.io//blog/first-post/" rel="alternate" type="text/html" title="github.io 블로그 시작하기" /><published>2021-01-11T00:00:00+09:00</published><updated>2021-01-11T22:17:00+09:00</updated><id>https://park-moonkyu.github.io//blog/first-post</id><content type="html" xml:base="https://park-moonkyu.github.io//blog/first-post/">&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
+&lt;p&gt;올해 목표는 캐글 expert가 되는것이다. 
+지금 이 포스팅이 어떻게 보면 이 블로그의 첫번째 포스팅인데 꾸준하게 공부하며 기록을 해보도록 해야겠다.&lt;/p&gt;</content><author><name>Moonkyu Park</name></author><category term="독서" /><category term="독서" /><summary type="html">사카모토 도시유키 지음 / 박광수 옮김&quot;</summary></entry><entry><title type="html">github.io 블로그 시작하기</title><link href="https://park-moonkyu.github.io//blog/first-post/" rel="alternate" type="text/html" title="github.io 블로그 시작하기" /><published>2021-01-11T00:00:00+09:00</published><updated>2021-01-11T22:17:00+09:00</updated><id>https://park-moonkyu.github.io//blog/first-post</id><content type="html" xml:base="https://park-moonkyu.github.io//blog/first-post/">&lt;p&gt;GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
 GitHub Blog 서비스의 이름은 Pages이다.&lt;/p&gt;
 
 &lt;p&gt;Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
