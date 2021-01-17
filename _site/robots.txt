@@ -1,1 +1,2 @@
-Sitemap: https://park-moonkyu.github.io//sitemap.xml
+User-agent: *
+Allow: /
