@@ -10,4 +10,10 @@ var store = [{
         "tags": ["독서"],
         "url": "https://park-moonkyu.github.io//%EB%8F%85%EC%84%9C/%EC%BA%90%EA%B8%80%EA%B0%80%EC%9D%B4%EB%93%9C/",
         "teaser": "https://park-moonkyu.github.io//assets/images/mk.png"
+      },{
+        "title": "쿠버네티스란 ?",
+        "excerpt":"유래 키잡이(선박의 방향을 바꾸기 위하여 사용하는 장치를 도작 하는 선원) 이나 파일럿을 뜻하는 그리스어에서 유래하였다. 왜 키잡이, 파일럿이라는 단어가 나왔을까? 차근차근 알아보도록 하자 ! 구글이 2014년에 쿠버네티스 프로젝트를 오픈소스화하였다. 15년 이상의 구글의 경험과 다양한 커뮤니티가 만나면서 커뮤니티 최고의 아이디어와 적용 사례가 결합되며 더욱더 커지고 있다. 시간의 흐름에 따른 변화 시간이...","categories": ["kubernetes"],
+        "tags": ["인턴공부"],
+        "url": "https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)/",
+        "teaser": "https://park-moonkyu.github.io//assets/images/mk.png"
       }]
