@@ -1,0 +1,1489 @@
+I"a�<h2 id="moonkyu-park-블로그">Moonkyu Park 블로그</h2>
+
+<p>이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.</p>
+
+<p>진짜 블로그인 <a href="https://blog.naver.com/mk_crew">https://blog.naver.com/mk_crew</a>을 방문해보자.
+이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
+모든 글을 볼 수 있다.</p>
+
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpark-moonkyu&amp;count_bg=%23FD0A00&amp;title_bg=%232A0EFF&amp;icon=gofundme.svg&amp;icon_color=%23FFFFFF&amp;title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&amp;edge_flat=true" alt="Hits" /></a></p>
+
+<p><a href="https://www.linkedin.com/in/moonkyu-park-aa6451188"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/moonkyu-park-aa6451188" alt="Linkedin Badge" /></a>
+<a href="https://www.youtube.com/channel/UC5HfEyjM8r-GESaFfW7-DEA?view_as=subscribe"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&amp;logo=youtube&amp;link=https://www.youtube.com/channel/UC5HfEyjM8r-GESaFfW7-DEA?view_as=subscribe" alt="Youtube Badge" /></a>
+<a href="https://blog.naver.com/mk_crew"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&amp;logo=github&amp;link=https://zzsza.github.io/" alt="Tech Blog Badge" /></a>
+<a href="https://www.facebook.com/profile.php?id=100001411438471"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/profile.php?id=100001411438471" alt="Facebook Badge" /></a>
+<a href="https://www.instagram.com/mooongs_/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/mooongs_/" alt="Instagram Badge" /></a> 
+<a href="mailto:moonkyu95@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moonkyu95@gmail.com" alt="Gmail Badge" /></a></p>
+
+<p>&lt;!DOCTYPE html&gt;</p>
+<html lang="en"><!--
+ __  __                __                                     __
+/\ \/\ \              /\ \             __                    /\ \
+\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
+ \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
+  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
+   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
+    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
+                /\___/                \ \____/
+                \/__/                  \/___/
+Powered by Hydejack v6.4.0 (https://qwtel.com/hydejack/)
+-->
+
+
+
+
+
+
+
+
+
+<head>
+  <!-- =============== -->
+<!-- META            -->
+<!-- =============== -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="format-detection" content="telephone=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="naver-site-verification" content="22c5b4ef3bfda7fc6100671413989219de7a4ac8" />
+<meta property="og:title" content="About" />
+<meta property="og:type" content="article" />
+
+
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/img/logo.png" />
+
+
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="360" />
+
+
+
+  <title>About &middot; 어쩐지 오늘은</title>
+
+
+
+<meta name="description" content="메모가 습관인 데이터쟁이입니다
+" />
+<meta property="og:description" content="메모가 습관인 데이터쟁이입니다
+" />
+
+
+<!-- tipuesearch -->
+<link rel="stylesheet" href="/assets/tipuesearch/css/tipuesearch.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+
+
+
+<!-- =============== -->
+<!-- LINKS           -->
+<!-- =============== -->
+<link rel="canonical" href="http://localhost:4000/about/" />
+<meta property="og:url" content="http://localhost:4000/about/" />
+
+<link rel="alternate" type="application/atom+xml" title="어쩐지 오늘은 Feed" href="http://localhost:4000/feed.xml" />
+
+
+
+
+
+<link rel="apple-touch-icon" href="http://localhost:4000/apple-touch-icon.png" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?" />
+<!-- Place favicon.ico in the root directory -->
+
+<!-- =============== -->
+<!-- SCRIPTS         -->
+<!-- =============== -->
+<script>
+  !function(n,e){function t(n,e){n.onload=function(){this.onerror=this.onload=null,e(null,n)},n.onerror=function(){this.onerror=this.onload=null,e(new Error("Failed to load "+this.src),n)}}function o(n,e){n.onreadystatechange=function(){"complete"!=this.readyState&&"loaded"!=this.readyState||(this.onreadystatechange=null,e(null,n))}}n._loaded=!1,n.loadJSDeferred=function(a,d){function r(){n._loaded=!0;var r=e.createElement("script");r.src=a,d&&(("onload"in r?t:o)(r,d),r.onload||t(r,d));var l=e.getElementsByTagName("script")[0];l.parentNode.insertBefore(r,l)}n._loaded?r():n.addEventListener?n.addEventListener("load",r,!1):n.attachEvent?n.attachEvent("onload",r):n.onload=r}}(window,document);
+
+  !function(e){"use strict";var n=function(n,t,o){function i(e){if(a.body)return e();setTimeout(function(){i(e)})}function r(){l.addEventListener&&l.removeEventListener("load",r),l.media=o||"all"}var d,a=e.document,l=a.createElement("link");if(t)d=t;else{var f=(a.body||a.getElementsByTagName("head")[0]).childNodes;d=f[f.length-1]}var s=a.styleSheets;l.rel="stylesheet",l.href=n,l.media="only x",i(function(){d.parentNode.insertBefore(l,t?d:d.nextSibling)});var u=function(e){for(var n=l.href,t=s.length;t--;)if(s[t].href===n)return e();setTimeout(function(){u(e)})};return l.addEventListener&&l.addEventListener("load",r),l.onloadcssdefined=u,u(r),l};"undefined"!=typeof exports?exports.loadCSS=n:e.loadCSS=n}("undefined"!=typeof global?global:this);
+
+  !function(t){if(t.loadCSS){var e=loadCSS.relpreload={};if(e.support=function(){try{return t.document.createElement("link").relList.supports("preload")}catch(t){return!1}},e.poly=function(){for(var e=t.document.getElementsByTagName("link"),r=0;r<e.length;r++){var n=e[r];"preload"===n.rel&&"style"===n.getAttribute("as")&&(t.loadCSS(n.href,n,n.getAttribute("media")),n.rel=null)}},!e.support()){e.poly();var r=t.setInterval(e.poly,300);t.addEventListener&&t.addEventListener("load",function(){e.poly(),t.clearInterval(r)}),t.attachEvent&&t.attachEvent("onload",function(){t.clearInterval(r)})}}}(this);
+
+  window.disablePushState = false;
+  window.disableDrawer = false;
+</script>
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5105555504153863",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!--[if lt IE 9]>
+<script src="https://unpkg.com/html5shiv/dist/html5shiv.min.js"></script>
+<![endif]-->
+
+<!-- =============== -->
+<!-- STYLES          -->
+<!-- =============== -->
+<!--[if gt IE 8]><!---->
+<style>
+  
+  article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}*{box-sizing:border-box}html,body{margin:0;padding:0}html{font-size:16px;line-height:1.75}body{color:#333;background-color:#fff;overflow-y:scroll}a{text-decoration:none}.lead{margin-left:-1rem;margin-right:-1rem}img,.img{display:block;max-width:100%;margin-bottom:1rem;border:none}img.lead,.img.lead{max-width:calc(100% + 2rem);width:calc(100% + 2rem)}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.heading{font-weight:bold;text-rendering:optimizeLegibility}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{margin:1.6rem 0 1rem;line-height:1.6}h1,.h1{font-size:2rem;line-height:1.25}h2,.h2{font-size:1.5rem}h3,.h3{font-size:1.17em}p{margin-top:0;margin-bottom:1rem}p.lead{font-size:1.25rem;font-weight:300;padding:0 1rem}ul,ol,dl{margin-top:0;margin-bottom:1rem}ul,ol{padding-left:1.25rem}hr{position:relative;margin:1.5rem 0;border:0;border-top:1px solid #eee}.hr{padding-bottom:.5rem;border-bottom:1px solid #eee;margin-bottom:1.5rem}h4,h5,h6,.h4,.h5,.h6{margin-bottom:0.5rem;font-size:1rem}table{margin-bottom:1rem;width:100%;width:calc(100% + 2rem);margin-left:-1rem;border:1px solid #e5e5e5;border-collapse:collapse;border-spacing:0}td,th{padding:.25rem .5rem;border:1px solid #e5e5e5}td:first-child,th:first-child{padding-left:1rem}td:last-child,th:last-child{padding-right:1rem}thead+tbody,tbody+tbody,tfoot{border-top:3px double #e5e5e5}tbody tr:nth-child(odd) td,tbody tr:nth-child(odd) th{background-color:#f9f9f9}footer{margin-bottom:2rem}.page,.post{margin-bottom:3em}.page li+li,.post li+li{margin-top:.25rem}.page>header,.post>header{margin-bottom:2rem}.page-title,.post-title{margin-top:0}.post-date{display:block;margin-top:-0.5rem;margin-bottom:1rem;color:#9a9a9a}.related-posts{padding-left:0;list-style:none}.related-posts>li,.related-posts>li+li{margin-top:1rem}.related-posts>li>small,.related-posts>li+li>small{font-size:75%;color:#9a9a9a}.message{margin-bottom:1rem;padding:1rem;color:#787878;background-color:#f9f9f9;margin-left:-1rem;margin-right:-1rem}body,main{position:relative;overflow-x:hidden}@media screen{body::before{content:'';background:#e5e5e5;position:absolute;left:0;top:0;bottom:0}}@media screen and (min-width: 40em){html{font-size:17px}}@media screen and (min-width: 54em){html{font-size:16px}}@media screen and (min-width: 88em){html{font-size:17px}}@media screen and (min-width: 125em){html{font-size:18px}}.sr-only{display:none}.clearfix,.sidebar-social::after,.clearafter::after{content:"";display:table;clear:both}a,.a{position:relative;padding-bottom:.15rem;border-style:hidden}.img{overflow:hidden;background-color:#f9f9f9}.img>img{margin:0;width:100%;height:100%}.sixteen-nine{position:relative}.sixteen-nine::before{display:block;content:"";width:100%;padding-top:56.25%}.sixteen-nine>*{position:absolute;top:0;left:0;right:0;bottom:0}h1+hr,h2+hr,h3+hr,h4+hr,h5+hr,h6+hr{margin-top:0}.fade-in{animation-duration:500ms;animation-name:fade-in;animation-fill-mode:forwards}@keyframes fade-in{from{transform:translateY(-2rem);opacity:0}50%{transform:translateY(-2rem);opacity:0}to{transform:translateY(0);opacity:1}}.mb6{margin-bottom:10rem}.sidebar{color:rgba(255,255,255,0.75);text-align:left}.sidebar::before{content:"";position:absolute;z-index:2;top:0;left:0;bottom:0;right:0;background:linear-gradient(to bottom, rgba(32,32,32,0) 0%, rgba(32,32,32,0.5) 100%)}.sidebar a{color:#fff;border-bottom-color:rgba(255,255,255,0.2)}.right-side{width:100%;margin-left:auto;margin-right:auto}.right-side .ad-first{text-align:center}.right-side .ad-second{text-align:center}@media screen{.right-side{max-width:38rem;min-height:100vh}}@media screen and (min-width: 54em){.right-side{margin-left:20rem;margin-right:1rem;padding:4rem 1rem 12rem}}@media screen and (min-width: 72em){.right-side{margin-left:22rem;max-width:42rem}}@media screen and (min-width: 88em){.right-side{width:162px;margin-left:0rem;margin-right:0rem;padding:0rem;margin-top:10rem;display:block;float:left}}@media screen and (min-width: 96em){.right-side{width:300px;margin-right:0rem}}#_yDrawer{position:relative}@media screen{#_yDrawer{min-height:640px;min-height:100vh}}@media screen and (min-width: 54em){#_yDrawer{width:18rem;margin-left:0}}.sidebar-bg{position:absolute;height:100%;overflow:hidden;top:0;right:0;bottom:0;left:0;background:#202020 center / cover}.sidebar-box{display:flex;justify-content:center}.sidebar-sticky{position:relative;z-index:3}@media screen{.sidebar-sticky{-ms-overflow-style:none;overflow:-moz-scrollbars-none;height:100%;overflow:auto;position:absolute;padding:3rem 0rem;right:2.5rem;left:2.5rem}}.sidebar-sticky::-webkit-scrollbar{display:none}.sidebar-about>h1{color:#fff;font-size:2rem}.sidebar-nav>ul{list-style:none;padding-left:0;margin-bottom:.5rem}a.sidebar-nav-item{width:100%;font-weight:normal;display:block;line-height:1.75;padding:.25rem 0;border-bottom:1px solid rgba(255,255,255,0.2)}a.sidebar-nav-subitem{font-weight:normal;display:block;line-height:1.75;padding:.25rem 0;border-bottom:1px solid rgba(255,255,255,0.2)}@media screen{.y-drawer-scrim{z-index:2}.y-drawer-content{width:18rem;left:-18rem;z-index:3}}.sidebar-social{margin-bottom:.5rem}.sidebar-social>ul{list-style:none;padding-left:0;margin:0 -.25rem}.sidebar-social>ul>li{float:left}.sidebar-social>ul>li>a{display:inline-block;text-align:center;font-size:1.6rem;line-height:3rem;width:3.1249rem;height:4rem;padding:.5rem 0}.sidebar-social>ul li+li{margin-top:0}.fixed-top{position:fixed;top:0;left:0;width:100%;z-index:1}.navbar>.content{padding-top:0;padding-bottom:0;min-height:0;height:0}.menu{display:inline-block;padding:1.75rem 1.5rem;border-bottom:none;margin-left:-1.5rem;color:#9a9a9a !important}.menu::after{content:"\2630"}@media screen and (min-width: 54em){.menu{padding:1.25rem 1.5rem;position:absolute;left:-9999px}.menu:focus{position:static}}.animation-main{pointer-events:none}.loading{display:none}@media print{.menu{display:none}}.animation-main{opacity:0;will-change:opacity}.loading{position:absolute;top:0;right:0;padding:5.25rem 4.5rem;transform-origin:top right;transform:scale(0.33)}.content{position:relative;margin-left:auto;margin-right:auto;padding:5rem 1rem 12rem}@media screen{.content{min-height:100vh}}@media screen and (min-width: 54em){.content{padding:4rem 1rem 12rem;margin-left:19rem;margin-right:3rem}}@media screen and (min-width: 72em){.content{max-width:42rem;margin-left:21rem}}@media screen and (min-width: 88em){.content{float:left;width:100%;margin-left:22rem;margin-right:5rem}}@media screen and (min-width: 96em){.content{max-width:44rem}}@media screen and (min-width: 102em){.content{margin-left:25rem;margin-right:8rem}}.me{width:6.5rem;height:6.5rem;align-self:center;margin-right:20px;border-radius:100%;position:relative}@media screen and (min-width: 40em){.me{width:7rem;height:7rem}}@media screen and (min-width: 54em){.me{width:6.5rem;height:6.5rem}}@media screen and (min-width: 72em){.me{width:7rem;height:7rem}}main>footer{width:100%;position:absolute;bottom:0;left:0;right:0;padding:0 1rem;color:#9a9a9a;font-size:smaller;text-align:center}main>footer>p{margin-bottom:0}html{font-family:'Sans-serif'}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.heading{font-family:'Sans-serif'}
+
+</style>
+
+
+<link rel="preload" href="http://localhost:4000/assets/css/hydejack.css?v=6.4.0" as="style" onload="this.rel='stylesheet'" />
+
+<style id="_pageStyle">
+
+.content a{color:#4f86aa;border-color:rgba(79,134,170,0.2)}.content a:hover{border-color:#4f86aa}:focus{outline-color:#4f86aa}::selection{color:#fff;background:#4f86aa}::-moz-selection{color:#fff;background:#4f86aa}
+
+</style>
+
+
+<noscript>
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/hydejack.css?v=6.4.0" />
+  
+  
+  
+
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato" />
+    <style>
+      html { font-family: 'Lato', 'Sans-serif' }
+      h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .heading { font-family: 'Lato', 'Sans-serif' }
+    </style>
+  
+
+  
+  <link rel="stylesheet" href="http://localhost:4000/assets/icomoon/style.css" />
+</noscript>
+<!--<![endif]-->
+
+</head>
+
+<body>
+  <!-- =============== -->
+<!-- MENU            -->
+<!-- =============== -->
+<div class="navbar fixed-top">
+  <div class="content">
+    <span class="sr-only">Jump to:</span>
+    <a id="_menu" class="menu no-hover" href="#_title">
+      <span class="sr-only">Menu</span>
+    </a>
+  </div>
+</div>
+
+<!-- =============== -->
+<!-- CONTENT         -->
+<!-- =============== -->
+<div id="_yPushState">
+  <div class="fade-in">
+    <main id="_main" class="content" role="main" data-color="#4f86aa" data-image="/assets/img/nap.jpg">
+      
+
+<article class="page" role="article">
+
+  <h1 class="page-title hr" style="padding-bottom:1rem">About</h1>
+
+  <div class="author-body">
+
+  
+    
+  
+
+  
+
+  <img src="/assets/img/me.jpeg" class="me" alt="seongyun byeon" srcset="/assets/img/me.jpeg 1x,/assets/img/me.jpeg 2x" />
+
+
+  
+    <div class="author-body-description">
+      <p>Machine Learning Engineer</p>
+
+    </div>
+  </div>
+  <div class="markdown-body">
+    <h2 id="소개">소개</h2>
+<ul>
+  <li>Github : <a href="https://github.com/zzsza">https://github.com/zzsza</a></li>
+  <li><a href="https://www.linkedin.com/in/seong-yun-byeon-8183a8113/">Linkedin</a></li>
+  <li>Mail : <a href="snugyun01@gmail.com">snugyun01@gmail.com</a></li>
+</ul>
+
+<p><code class="highlighter-rouge">Everything is in the Data</code> 라고 믿고 있습니다. 데이터에 대한 이야기하는 것을 좋아하고 여러 분야를 넘나들며 데이터를 바라보고 싶습니다. 대학 전공은 경영학이며, 3학년까진 광고(특히 디자인)에 관심을 갖고 공부했습니다. 미디어 플래너 일을 하면서 데이터에 대한 호기심이 증폭되었습니다. 그 이후 공기업에서 계약직으로 1년간 근무한 후, 공기업보다 활기 넘치는 일을 하고싶어, 지인과 함께 창업을 했습니다. 2015년에 <a href="https://www.wadiz.kr/web/campaign/detail/698">와디즈</a>에서 크라우드펀딩을 받은 경험이 있고, 이 당시엔 운영 및 회계 업무를 주로 했습니다. 그러던 도중, 조금 더 스페셜리스트가 되고싶단 생각에 빅데이터 동아리에 가입해 활동했습니다. 동아리가 끝난 후, 제 기본 실력이 부족하다고 느껴 패스트캠퍼스 데이터사이언스 스쿨 과정을 수강했습니다. 이 과정 수강한 후, 혼자 공부할 수 있는 능력이 생겨 현재는 Machine Learning Engineer가 되기 위해 매일 필요한 내용들을 공부하고, 코딩하고 있습니다. 종종 <code class="highlighter-rouge">Kaggle</code>에 참여해 등수 올리는 재미를 느끼고 있습니다.</p>
+
+<p>처음 시작한 언어는 <code class="highlighter-rouge">Python</code>이며, 데이터 엔지니어링 업무를 위해 Google Cloud의 <code class="highlighter-rouge">BigQuery</code>, <code class="highlighter-rouge">Dataflow</code>, <code class="highlighter-rouge">Apache Beam</code>을 주로 사용하고 있습니다. 2018년부터  <code class="highlighter-rouge">Scala</code>를 좋아하고 있고, <code class="highlighter-rouge">Apache Spark</code>, <code class="highlighter-rouge">Apache Kafka</code> 등을 공부하고 있습니다. 데이터 엔지니어링의 매력을 더욱 느끼고 있습니다.</p>
+
+<p>좋아하는 딥러닝 프레임워크는 <code class="highlighter-rouge">PyTorch</code>였으나 최근에 Tensorflow 2.0이 나온 후엔 ‘프레임워크는 도구일 뿐 필요한 경우에 적절하게 사용하면 된다’ 생각을 하고 있습니다.</p>
+
+<p>머신러닝/딥러닝을 프러덕션에 적용하는 업무를 하며 MLOps에 대한 관심이 많아졌고, 이 부분으로 더 공부하고 있습니다. 관련해서 <a href="https://www.facebook.com/groups/MLOpsKR/">MLOps KR</a>이란 커뮤니티를 만들었습니다. 프로필을 작성하는 시간 기준으로 제일 흥미있는 분야는 MLOps입니다 :)</p>
+
+<p>머신러닝이 아닌 Mathematical problem으로 문제를 풀기도 합니다(Linear Programming, Constraint Programming 등)</p>
+
+<p>결국 머신러닝이나 딥러닝, 최적화 알고리즘, 데이터 엔지니어링 모두 <strong>문제를 풀기 위한 다양한 방법들</strong>이라 생각합니다. 가장 중요한 것은 <strong>“문제 정의”</strong> 능력이라 생각하고, 문제를 잘 정의한 후 문제에 적절한 도구를 사용하면 되기 때문에 특정 도구에 저를 가두지 않고 끊임없이 배우고 성장하려 합니다 :)</p>
+
+<p>쏘카에서 팀장 역할을 하며 팀원들의 <strong>동기부여</strong>를 어떻게 더 잘 줄수 있는지, 팀원들을 <strong>어떻게 성장</strong>시킬지 등을 고민하며 교육 및 상담 등을 하고 있습니다. 이 부분은 여태 경험해보지 못한 새로운 분야지만 누군가의 성장을 지켜보는 일도 꽤 보람차다고 느끼기 때문에 다양한 방식으로 시도하고 있습니다(예시 : <a href="https://zzsza.github.io/diary/2019/10/20/helping-presentation/">팀원 성장시키기 : 발표 컨설팅</a>)</p>
+
+<h2 id="경력">경력</h2>
+<p>자세한 내용이 궁금하시면 제게 따로 연락주세요 :)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"> </th>
+      <th style="text-align: center">기간</th>
+      <th>담당 업무</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">쏘카</td>
+      <td style="text-align: center">2018.9 - 현재</td>
+      <td>타다데이터팀 <br /> 모빌리티의 다양한 문제를 풀기 위해 데이터 분석 <br /> 머신러닝 / 데이터 엔지니어링 수행 <br /> 팀원의 성장을 부스팅시키는 역할</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">레트리카</td>
+      <td style="text-align: center">2017.2 - 2018.4</td>
+      <td>데이터 분석 <br /> 데이터 이벤트 설계 <br /> 데이터 이벤트 QA <br /> 주요 지표 Report 자동화 <br /> BigQuery와 Dataflow를 사용한 데이터 엔지니어링 <br /> Airflow를 사용한 데이터 파이프라인 생성 및 관리 <br /> 데이터 대시보드 생성 및 관리(Tableau, Superset) <br /> 딥러닝 모델을 통한 야한 사진 Auto Block</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="운영하고-있는-커뮤니티">운영하고 있는 커뮤니티</h2>
+<ul>
+  <li><a href="https://www.facebook.com/groups/375431516259701/">글또</a>
+    <ul>
+      <li>글쓰는 또라이가 세상을 바꾼다! 글쓰는 개발자 모임</li>
+      <li>예치금(10만원)을 걷고 2주에 글 1개씩 작성. 미작성시 만원 차감</li>
+    </ul>
+  </li>
+  <li><a href="https://www.facebook.com/groups/bigquery/">Google BigQuery Users</a>
+    <ul>
+      <li>Google Cloud Platform의 BigQuery에 대해 이야기 나누는 커뮤니티</li>
+    </ul>
+  </li>
+  <li><a href="https://www.facebook.com/groups/MLOpsKR/">MLOps KR</a>
+    <ul>
+      <li>Machine Learning Ops에 대해 다루는 커뮤니티</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="프로젝트">프로젝트</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트명</th>
+      <th>기간</th>
+      <th>역할</th>
+      <th>설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/naver/ai-hackathon-2018">네이버 AI 해커톤 2018</a></td>
+      <td>2018.4</td>
+      <td>모델링<br />Feature Engineering</td>
+      <td>네이버 지식iN 질문 유사도 예측<br />최종 등수 : <strong>9등</strong> / 40팀</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kaggle.com/c/zillow-prize-1">Zillow’s Home Value 예측</a></td>
+      <td>2017.9 - 11</td>
+      <td>모델링<br />데이터 엔지니어링</td>
+      <td>Kaggle 대회 <br />  최종 등수 : <strong>81등</strong> / 3779팀</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kaggle.com/c/santander-product-recommendation">Santander Product 추천</a></td>
+      <td>2016.12</td>
+      <td>분석<br />모델링</td>
+      <td>Kaggle 대회 <br /> 최종 등수 : <strong>603등</strong> / 1784팀</td>
+    </tr>
+    <tr>
+      <td>Github 유저 추천 시스템</td>
+      <td>2016.7</td>
+      <td>분석<br />모델링</td>
+      <td>Word2Vec을 활용한<br />Github 유저 추천 시스템</td>
+    </tr>
+    <tr>
+      <td>맥주 추천 시스템</td>
+      <td>2015.6 - 12</td>
+      <td>기획/디자인<br />데이터 크롤링</td>
+      <td>Collaborative Filtering을 <br />활용한 맥주 추천 시스템</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="발표">발표</h2>
+<ul>
+  <li><a href="https://inthecloud.withgoogle.com/summit-sel-19/home.html?summit=globalpage">Google Cloud Summit SEOUL 2019 - 고객 패널과 함께 알아보는 Google Cloud Platform</a> (19.11.06)</li>
+  <li><a href="https://www.slideshare.net/zzsza/tf-9-160560910">Data Science is a Team Sport : TF에서 팀 빌딩까지 9개월의 기록 - 성장하는 조직을 만드는 여정</a> (19.08.03)</li>
+  <li><a href="https://www.slideshare.net/zzsza/mobility-x-data">DEVGROUND : Mobility X Data - 모빌리티 산업의 도전 과제</a> (19.06.27)</li>
+  <li><a href="https://www.slideshare.net/zzsza/ss-137831892">Write The Docs 서울 2019 : 글쓰는 개발자 모임, 글또</a> (19.03.23)</li>
+  <li><a href="https://www.slideshare.net/zzsza/intro-102870757">Daily 만년 Junior들의 이야기 - 델리만주 : 데이터 사이언스 입문</a>(19.02.16)</li>
+  <li><a href="https://www.slideshare.net/zzsza/gap-year-119998766">데이터야놀자 Ignite Talk : 사회인의 휴학, Gap Year 이야기</a>(18.10.19)</li>
+  <li>숙명여대 취업캠프 특강(18.06.26)</li>
+  <li><a href="https://www.slideshare.net/zzsza/intro-102870757">백수들의 Conference : 개발자를 위한 (블로그) 글쓰기 intro</a>(18.06.24)</li>
+  <li>인하대 Data Science 특강(18.05.03)</li>
+  <li><a href="https://www.slideshare.net/zzsza/little-big-data-1">Little Big Data, 다양한 사람들의 데이터 사이언스 이야기 : 바닥부터 시작하는 데이터 인프라</a>(18.04.21)</li>
+  <li><a href="https://www.slideshare.net/zzsza/data-science-intro">OKKY 4월 세미나 : Data Science. Intro</a>(18.04.05)</li>
+  <li>중앙대 IT 취업특강(18.03.13)</li>
+  <li>리드미 대학생 멘토링(18.02.20)</li>
+  <li>패스트캠퍼스 스쿨 홈커밍 데이(18.01.20)</li>
+</ul>
+
+<h2 id="작성-문서">작성 문서</h2>
+<ul>
+  <li><a href="https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki">I Want to study Data Science</a> : Data Science 전반에 대해 정리한 Wiki</li>
+  <li><a href="https://zzsza.github.io/diary/2019/10/20/helping-presentation/">팀원 성장시키기 : 발표 컨설팅</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/tf-9-160560910">TF에서 팀 빌딩까지 9개월의 기록 : 성장하는 조직을 만드는 여정</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/mobility-x-data">MOBILITY X DATA : 모빌리티 산업의 도전 과제</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/bigquery-147073606">BigQuery의 모든 것(기획자, 마케터, 신입 데이터 분석가를 위한) 입문편</a></li>
+  <li><a href="http://www.yes24.com/Product/Goods/72176082">마이크로 소프트웨어 396호 : 개발자 글쓰기 모임, 글또</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/intro-102870757">개발자를 위한 (블로그) 글쓰기 intro</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/data-science-intro">Data Science. Intro</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/little-big-data-1">바닥부터 시작하는 데이터 인프라</a></li>
+  <li><a href="https://zzsza.github.io/diary/2017/12/30/2017-retrospect/">2017년 회고, 2018년 계획</a></li>
+  <li><a href="https://github.com/zzsza/bigquery-tutorial">BigQuery Tutorial</a></li>
+  <li><a href="https://github.com/zzsza/Datascience-Interview-Questions">Datascience Interview Questions</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/feat-gcp-gcp-86347239">구름 이야기(GCP 사례)</a></li>
+  <li><a href="https://github.com/zzsza/Kaggle-knowhow">Kaggle knowhow</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/10-jupyter-notebook">10분만에 익히는 jupyter notebook</a></li>
+  <li><a href="https://www.slideshare.net/zzsza/gap-year-119998766">사회인의 휴학, Gap Year 이야기</a></li>
+</ul>
+
+<h2 id="기타">기타</h2>
+<ul>
+  <li>Edwith <a href="https://www.edwith.org/datascience">Data science from MIT</a> 퍼블리싱</li>
+  <li>패스트캠퍼스 <a href="http://school.fastcampus.co.kr/data_des/">데이터 엔지니어링 Extension SCHOOL</a> 1기 2학기(Scala, Spark Part) 조교</li>
+  <li>패스트캠퍼스 <a href="http://www.fastcampus.co.kr/data_camp_pytorch/">PyTorch로 시작하는 딥러닝 입문 CAMP</a> 3기 실습 조교</li>
+  <li>제이펍 베타리더스 6기</li>
+  <li><a href="https://www.facebook.com/groups/795777620529967/">스타트업, 식사는 하셨습니까?</a> 페이스북 그룹 2기 운영진(에디터)</li>
+  <li><a href="https://www.wadiz.kr/web/campaign/detail/698">달다 쓰다, 또 하나의 게양</a> 크라우드 펀딩 성공</li>
+</ul>
+
+
+  </div>
+</article>
+
+
+      
+
+      <footer>
+  <hr />
+  
+    <p>© 2017. by Seongyun Byeon</p>
+
+  
+  <p>
+    <code>Powered by <a href="https://zzsza.github.io/">zzsza</a></code>
+  </p>
+</footer>
+
+    </main>
+    <div class="right-side">
+  <div class="ad-first">
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- 블로그-상단-모바일 -->
+    <ins class="adsbygoogle" style="display:inline-block;width:100%;" data-ad-client="ca-pub-5105555504153863" data-ad-slot="9090558636" data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+<br />
+<br />
+  <div class="ad-second">
+    <!-- 블로그-스카이스크래퍼 -->
+    <ins class="adsbygoogle" style="display:inline-block;max-width:320px;width:100%;height:600px" data-ad-client="ca-pub-5105555504153863" data-ad-slot="3646660262"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</div>
+
+
+  </div>
+  <div id="_yDrawer">
+  <div id="_sidebar" class="sidebar">
+    <div class="sidebar-bg" style="background-color:#4f86aa;background-image:url(/assets/img/nap.jpg)"></div>
+    <header class="sidebar-sticky" role="banner">
+      <br />
+      <div class="sidebar-about">
+        <h1><a id="_title" href="/">어쩐지 오늘은</a></h1>
+        <p>Machine Learning Engineer</p>
+
+      </div>
+
+      <br />
+      <nav class="sidebar-nav heading" role="navigation">
+        <span class="sr-only">Navigation:</span>
+<ul>
+  
+
+  
+
+  
+  
+  
+  
+  
+    <li>
+      <input type="checkbox" id="list-item-1" />
+      <div class="list-wrapper">
+      <a class="sidebar-nav-item" href="/category/diary/">Diary</a>
+       
+    </div>
+     <ul class="list-body">
+       
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/diary-diary/">diary</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+     </ul>
+    </li>
+
+  
+  
+    <li>
+      <input type="checkbox" id="list-item-2" />
+      <div class="list-wrapper">
+      <a class="sidebar-nav-item" href="/category/data/">Data</a>
+       <label class="folder" for="list-item-2">▾</label>
+    </div>
+     <ul class="list-body">
+       
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-ml/">Machine-Learning</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-dl/">Deep-Learning</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-mobility/">Mobility</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-engineering/">Engineering</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-optimization/">Optimization</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-paper/">Paper</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-pytorch/">Pytorch</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-cs231/">CS231n</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-rl/">Reinforcement-Learning</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-time-series/">Time Series</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-analytics/">Analytics</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-kaggle/">Kaggle</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-vision/">Vision</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-interpretable-ml/">Interpretable ML</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-simulation/">Simulation</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/data-graph/">Graph</a>
+             </li>
+           
+         
+     </ul>
+    </li>
+
+  
+  
+    <li>
+      <input type="checkbox" id="list-item-3" />
+      <div class="list-wrapper">
+      <a class="sidebar-nav-item" href="/category/mlops/">MLOps</a>
+       <label class="folder" for="list-item-3">▾</label>
+    </div>
+     <ul class="list-body">
+       
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/mlops-basic/">Basic</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/mlops-airflow/">Airflow</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/mlops-mlflow/">MLflow</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/mlops-tfx/">Tensorflow Extended</a>
+             </li>
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/mlops-serving/">Serving</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/mlops-feature/">Feature</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/mlops-version/">Model &amp; Pipeline version</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+     </ul>
+    </li>
+
+  
+  
+    <li>
+      <input type="checkbox" id="list-item-4" />
+      <div class="list-wrapper">
+      <a class="sidebar-nav-item" href="/category/gcp/">Google Cloud Platform</a>
+       <label class="folder" for="list-item-4">▾</label>
+    </div>
+     <ul class="list-body">
+       
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/gcp-basic/">Basic</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/gcp-bigquery/">BigQuery</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/gcp-aiplatform/">AI Platform</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/gcp-dataflow/">Dataflow</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/gcp-cloud-functions/">Cloud Functions</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+     </ul>
+    </li>
+
+  
+  
+    <li>
+      <input type="checkbox" id="list-item-5" />
+      <div class="list-wrapper">
+      <a class="sidebar-nav-item" href="/category/development/">Development</a>
+       <label class="folder" for="list-item-5">▾</label>
+    </div>
+     <ul class="list-body">
+       
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-linux/">Linux</a>
+             </li>
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-web/">Web</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-python/">Python</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-sql/">SQL</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-scala/">Scala</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-os/">OS</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-kubernetes/">Kubernetes</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-devops/">DevOps</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-kotlin/">Kotlin</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-julia/">Julia</a>
+             </li>
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/development-tools/">Tools</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+     </ul>
+    </li>
+
+  
+  
+    <li>
+      <input type="checkbox" id="list-item-6" />
+      <div class="list-wrapper">
+      <a class="sidebar-nav-item" href="/category/etc/">ETC</a>
+       <label class="folder" for="list-item-6">▾</label>
+    </div>
+     <ul class="list-body">
+       
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/etc-lecture/">Lecture</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+             <li>
+               <a class="sidebar-nav-subitem" href="/tag/etc-book/">Book</a>
+             </li>
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+     </ul>
+    </li>
+
+  
+  
+    <li>
+      <input type="checkbox" id="list-item-7" />
+      <div class="list-wrapper">
+      <a class="sidebar-nav-item active" href="/about/">About</a>
+       
+    </div>
+     <ul class="list-body">
+       
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+     </ul>
+    </li>
+
+  
+</ul>
+
+      </nav>
+    <!-- search box -->
+    <form action="/search">
+      <div class="tipue_search_box">
+        <input type="text" name="q" id="tipue_search_input" placeholder="&#xF002;  Search" pattern=".{2,}" title="최소 2글자 이상" required="" /></div>
+      <div style="clear: both;"></div>
+    </form>
+    <br />
+      <div class="sidebar-box">
+        
+          
+  
+
+  
+
+  <img src="/assets/img/me.jpeg" class="me" alt="seongyun byeon" srcset="/assets/img/me.jpeg 1x,/assets/img/me.jpeg 2x" />
+
+
+        
+      </div>
+      <p>메모가 습관인 데이터쟁이입니다</p>
+
+      
+      
+        <div class="sidebar-social">
+          <span class="sr-only">Social:</span>
+<ul>
+  
+    
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://facebook.com/zzsza">
+    <span class="icon-facebook" title="Facebook"></span>
+    <span class="sr-only">Facebook</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://www.youtube.com/channel/UCYyAaezBGEVmXcnink6nY9Q">
+    <span class="icon-youtube" title="YouTube"></span>
+    <span class="sr-only">YouTube</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://instagram.com/data.scientist">
+    <span class="icon-instagram" title="Instagram"></span>
+    <span class="sr-only">Instagram</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://github.com/zzsza">
+    <span class="icon-github" title="GitHub"></span>
+    <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://www.linkedin.com/in/seong-yun-byeon-8183a8113">
+    <span class="icon-linkedin2" title="LinkedIn"></span>
+    <span class="sr-only">LinkedIn</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:snugyun01@gmail.com">
+    <span class="icon-mail" title="Email"></span>
+    <span class="sr-only">Email</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://zzsza.github.io/feed.xml">
+    <span class="icon-rss2" title="RSS"></span>
+    <span class="sr-only">RSS</span>
+  </a>
+</li>
+
+  
+</ul>
+
+        </div>
+      
+    </header>
+  </div>
+</div>
+
+</div>
+
+<!-- =============== -->
+<!-- SCRIPTS         -->
+<!-- =============== -->
+
+<script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-110573232-1', 'auto');
+  ga('send', 'pageview');
+  loadJSDeferred('https://www.google-analytics.com/analytics.js');
+</script>
+
+
+
+
+
+<!--[if gt IE 8]><!---->
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>
+  WebFont.load({
+    
+    google: {
+      families: 'Lato'.split('|')
+    },
+    
+
+    custom: {
+      families: ['icomoon'],
+      urls: ['/assets/icomoon/style.css']
+    }
+  });
+</script>
+<!--<![endif]-->
+
+
+  <!--[if gt IE 9]><!---->
+  
+  <script>loadJSDeferred('/assets/js/hydejack.js?v=6.4.0');</script>
+
+  
+  <!--<![endif]-->
+
+
+
+</body>
+
+</html>
+:ET

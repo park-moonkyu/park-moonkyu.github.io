@@ -1,13 +1,21 @@
 ---
-title: "ABOUT"
+title: "ABOUT ME"
 permalink: /about/
 layout: single
 ---
 
-## Moonkyu Park 블로그
+##  블로그에 방문해 주셔서 감사합니다.
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+![zz](https://avatars0.githubusercontent.com/u/41941627?s=460&u=98568a35bd86325d1d0f7886a7f98e262c3b493c&v=4){: .align-center}
 
-진짜 블로그인 <https://blog.naver.com/mk_crew>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+안녕하세요. 클라우드와 AI에 관심이 많은 개발자 박문규입니다.<br>
+호기심이 많으며 신기술 익히는것을 좋아하며 기록 남기는것을 좋아합니다.
+<center>2021.01.19</center>  
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moonkyu-park-aa6451188)](https://www.linkedin.com/in/moonkyu-park-aa6451188)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blog.naver.com/mk_crew)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC5HfEyjM8r-GESaFfW7-DEA?view_as=subscribe)](https://www.youtube.com/channel/UC5HfEyjM8r-GESaFfW7-DEA?view_as=subscribe)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100001411438471)](https://www.facebook.com/profile.php?id=100001411438471)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mooongs_/)](https://www.instagram.com/mooongs_/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moonkyu95@gmail.com)](mailto:moonkyu95@gmail.com)
