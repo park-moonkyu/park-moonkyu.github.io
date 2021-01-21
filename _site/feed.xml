@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://park-moonkyu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://park-moonkyu.github.io//" rel="alternate" type="text/html" /><updated>2021-01-20T08:55:44+09:00</updated><id>https://park-moonkyu.github.io//feed.xml</id><title type="html">꾸준하게 정리하기</title><subtitle>주니어 개발자 박문규의 블로그입니다.</subtitle><author><name>Moonkyu Park</name></author><entry><title type="html">쿠버네티스란 ?</title><link href="https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)/" rel="alternate" type="text/html" title="쿠버네티스란 ?" /><published>2021-01-20T00:00:00+09:00</published><updated>2021-01-21T01:07:00+09:00</updated><id>https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)</id><content type="html" xml:base="https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)/">&lt;h2 id=&quot;유래&quot;&gt;유래&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://park-moonkyu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://park-moonkyu.github.io//" rel="alternate" type="text/html" /><updated>2021-01-21T22:13:02+09:00</updated><id>https://park-moonkyu.github.io//feed.xml</id><title type="html">꾸준하게 정리하기</title><subtitle>주니어 개발자 박문규의 블로그입니다.</subtitle><author><name>Moonkyu Park</name></author><entry><title type="html">DRM 이란 ?</title><link href="https://park-moonkyu.github.io//drm/drm/" rel="alternate" type="text/html" title="DRM 이란 ?" /><published>2021-01-21T00:00:00+09:00</published><updated>2021-01-22T01:07:00+09:00</updated><id>https://park-moonkyu.github.io//drm/drm</id><content type="html" xml:base="https://park-moonkyu.github.io//drm/drm/">&lt;p&gt;DRM 이란 ?&lt;/p&gt;
+
+&lt;p&gt;DRM(Digit Rights Management)은 ‘디지털 저작권 권리’라고 해석된다.
+디지털 환경에서 콘텐츠를 만들어낸 이의 지적 재산권 보호를 한다.
+또한 해당 창작물을 사용하고자 하는 사용자의 의무와 권리를 보호하기 위한 기술이다.&lt;/p&gt;
+
+&lt;p&gt;오프라인 제품이 도매 소매를 거치는 유통라인처럼 온라인도 유사한 절차를 거친다.
+따라서 이러한 보호/판매/운영을 위해서는 DRM솔루션 제품이 포함된 서비스를 사용한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog.kollus.com/wp-content/uploads/2014/04/DRM-%ED%8C%A8%ED%82%A4%EC%A7%95-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8B%B1-%ED%9D%90%EB%A6%84%EB%8F%84.png&quot; alt=&quot;title&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;책같은 경우, 책을 디지털 콘텐츠로 변환한 후 DRM처리하여 변환하는 작업을 한다.
+이때 작업과정을 패키징(packaging)이라고 하고 패키징하는 도구는 패키저(Packager)이다.&lt;/p&gt;
+
+&lt;p&gt;패키징은은 시점을 기준으로 2가지로 나뉜다.
+사용자가 콘텐츠를 요청한 시점(on-the-flay-packaging)과 사전에 패키징하는 (pre-packaging)이다.
+문서파일이나 음원 파일 같은 경우에는 실시간 패키징을 하게된다.
+동영상이나 게임 설치 프로그램과 같은 경우 사전에 한다.&lt;/p&gt;
+
+&lt;p&gt;콘텐츠 사용규칙에 맞게 구매한 구매자는 단말기기에 DRM복호화 모듈이 존재해야한다.
+이 모듈의 역할을 사용자 인증과 라이선스 정보를 발급받아 컨텐츠 복호화이다.&lt;/p&gt;</content><author><name>Moonkyu Park</name></author><category term="DRM" /><category term="인턴공부" /><summary type="html">DRM(Digit Rights Management)은 '디지털 저작권 권리'라고 해석된다.</summary></entry><entry><title type="html">쿠버네티스란 ?</title><link href="https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)/" rel="alternate" type="text/html" title="쿠버네티스란 ?" /><published>2021-01-20T00:00:00+09:00</published><updated>2021-01-21T01:07:00+09:00</updated><id>https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)</id><content type="html" xml:base="https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)/">&lt;h2 id=&quot;유래&quot;&gt;유래&lt;/h2&gt;
 
 &lt;p&gt;키잡이(선박의 방향을 바꾸기 위하여 사용하는 장치를 도작 하는 선원) 이나 파일럿을 뜻하는 그리스어에서 유래하였다. &lt;br /&gt;왜 키잡이, 파일럿이라는 단어가 나왔을까? 차근차근 알아보도록 하자 !&lt;br /&gt;
 구글이 2014년에 쿠버네티스 프로젝트를 오픈소스화하였다. &lt;br /&gt;15년 이상의 구글의 경험과 다양한 커뮤니티가 만나면서 커뮤니티 최고의 아이디어와 적용 사례가 결합되며 더욱더 커지고 있다.&lt;/p&gt;

@@ -16,4 +16,10 @@ var store = [{
         "tags": ["인턴공부"],
         "url": "https://park-moonkyu.github.io//kubernetes/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4(1)/",
         "teaser": "https://park-moonkyu.github.io//assets/images/mk.png"
+      },{
+        "title": "DRM 이란 ?",
+        "excerpt":"DRM 이란 ? DRM(Digit Rights Management)은 ‘디지털 저작권 권리’라고 해석된다. 디지털 환경에서 콘텐츠를 만들어낸 이의 지적 재산권 보호를 한다. 또한 해당 창작물을 사용하고자 하는 사용자의 의무와 권리를 보호하기 위한 기술이다. 오프라인 제품이 도매 소매를 거치는 유통라인처럼 온라인도 유사한 절차를 거친다. 따라서 이러한 보호/판매/운영을 위해서는 DRM솔루션 제품이 포함된 서비스를 사용한다. 책같은...","categories": ["DRM"],
+        "tags": ["인턴공부"],
+        "url": "https://park-moonkyu.github.io//drm/drm/",
+        "teaser": "https://park-moonkyu.github.io//assets/images/mk.png"
       }]
