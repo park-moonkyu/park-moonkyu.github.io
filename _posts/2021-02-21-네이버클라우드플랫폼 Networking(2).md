@@ -1,6 +1,6 @@
 ---
 title:  "네이버클라우드플랫폼 Networking - LoadBalancer"
-excerpt: "네이버클라우드플랫폼 파헤치기 4편 "
+excerpt: "네이버클라우드플랫폼 파헤치기 5편 "
 toc: true
 toc_sticky: true
 
